@@ -1,7 +1,7 @@
 - 👋 Hi, I’m oscar
-- 👀 I’m interested in learn more about programation
-- 🌱 I’m currently learning digital marketing and started to lear about programation web
-- 💞️ I’m looking to collaborate with people willing to teach me
+- 👀 I’m interested to find job
+- 🌱 I’m currently learning Java and Springboot
+- 💞️ I’m looking to collaborate in public softwares
 - 📫 How to reach me oscarrivera4901@gmail.com
 
 <!---
